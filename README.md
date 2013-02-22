@@ -1,6 +1,8 @@
 Ruby best practices
 ===================
 
+## Methods
+
 Implement methods based on confident code:
 
 * Gather input
@@ -11,3 +13,7 @@ Implement methods based on confident code:
 http://www.youtube.com/watch?v=T8J0j2xJFgQ
 
 http://avdi.org/talks/confident-code-railsconf-2011/
+
+## Objects
+
+Null object: http://rubydoc.info/gems/nullobject/0.0.3/frames
