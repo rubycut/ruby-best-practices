@@ -3,6 +3,12 @@ Ruby best practices
 
 ## Methods
 
+### Arguments
+
+Use named-parameters gem
+
+### Structure
+
 Implement methods based on confident code:
 
 * Gather input
